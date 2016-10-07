@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marksheet>
+	<course>
+		<courseid>CSC401</courseid>
+		<title>AM-IV</title>
+		<TH>70</TH>
+		<IA>13</IA>
+		<TW>20</TW>
+		<PR>15</PR>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC402</courseid>
+		<title>AOA</title>
+		<TH>60</TH>
+		<IA>18</IA>
+		<TW>13</TW>
+		<PR>10</PR>
+		<total>101</total>
+	</course>
+
+	<course>
+		<courseid>CSC403</courseid>
+		<title>COA</title>
+		<TH>40</TH>
+		<IA>19</IA>
+		<TW>16</TW>
+		<PR>16</PR>
+		<total>91</total>
+	</course>
+
+	<course>
+		<courseid>CSC404</courseid>
+		<title>TCS</title>
+		<TH>50</TH>
+		<IA>15</IA>
+		<TW>20</TW>
+		<PR>15</PR>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC405</courseid>
+		<title>CG</title>
+		<TH>65</TH>
+		<IA>15</IA>
+		<TW>10</TW>
+		<PR>10</PR>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC406</courseid>
+		<title>DBMS</title>
+		<TH>49</TH>
+		<IA>11</IA>
+		<TW>10</TW>
+		<PR>10</PR>
+		<total>80</total>
+	</course>
+
+
+</marksheet>
